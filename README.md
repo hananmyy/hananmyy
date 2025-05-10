@@ -1,7 +1,6 @@
 # Hi there, I'm Hanan Mohamud! 👋
 
-![image](https://github.com/user-attachments/assets/d52c8a95-ae22-4510-8f4a-be561bdcb5fb)
-
+![Screenshot 2025-05-10 154145](https://github.com/user-attachments/assets/33a6c033-6c60-4fde-ab09-1b0e28edca77)
 
 ## About Me
 

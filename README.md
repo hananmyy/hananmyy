@@ -28,14 +28,14 @@ I'm a passionate **Backend Developer** with experience in **Node.js, Django and 
 
 ### VibandaConnect-A Vendor Management System (https://github.com/hananmyy/VibandaConnect--Vendor-Management-System)
 
-![Screenshot 2025-04-15 082739](https://github.com/user-attachments/assets/245ea48b-8c00-49ae-85b4-768b3e580df8)
+![Screenshot 2025-04-15 082739](https://github.com/user-attachments/assets/c339c96d-bf85-4fc8-b775-82bee7552f20)
 
 **VibandaConnect** is a **A Vendor Management System** built with **MySQL, Node.js, Express.js, MongoDB, EJS, Tailwind CSS**. I developed a full-stack vendor management system to optimize order tracking and coordination, demonstrating skills in **database management, backend development, frontend rendering, UI design, and full-stack integration**
 You can check out the repository [here](https://github.com/user-attachments/assets/245ea48b-8c00-49ae-85b4-768b3e580df8).
 
 ### Portfolio Website (https://github.com/hananmyy/My-Portfolio-Website)
 
-![Screenshot 2025-04-15 085217](https://github.com/user-attachments/assets/35dd7645-8e31-43e6-8b22-75a96e7810a2)
+![Screenshot 2025-04-15 085217](https://github.com/user-attachments/assets/e08a0fee-f24b-4fbb-95fa-1c23a55cd6cf)
 
 **My Portfolio Website** is a **fully responsive personal portfolio** built with **HTML, Tailwind CSS, JavaScript, Node.js**. I developed this project to highlight my work, demonstrating skills in **frontend development, UI/UX design, responsiveness, and full-stack integration**.
 You can check out the repository [here](https://github.com/user-attachments/assets/35dd7645-8e31-43e6-8b22-75a96e7810a2).
